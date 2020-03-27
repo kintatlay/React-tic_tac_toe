@@ -4,7 +4,7 @@ This is the readme file for the Tic Tac Toe application.
 
 ## Demo
 
-<img src="http://g.recordit.co/Xjatf23Mj0.gif" height="300" width="300">
+<img src="http://g.recordit.co/Xjatf23Mj0.gif" height="400" width="450">
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
