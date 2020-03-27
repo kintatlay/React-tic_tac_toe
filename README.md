@@ -1,3 +1,11 @@
+# Tic Tac Toc App
+
+This is the readme file for the Tic Tac Toe application.
+
+## Demo
+
+![] (http://g.recordit.co/Xjatf23Mj0.gif)
+
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
 ## Available Scripts
